@@ -4,7 +4,6 @@ Java Backend Developer focused on building scalable, secure, and high-performanc
 
 📍 Fremont, California  
 📧 aungkyawmyint1096@gmail.com  
-📞 (510) 255-0410  
 💼 LinkedIn: https://www.linkedin.com/in/aung-kyaw-myint-297093259/
 
 ---
