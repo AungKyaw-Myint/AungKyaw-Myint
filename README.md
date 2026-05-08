@@ -120,32 +120,4 @@ Focused on scalable system design and enterprise application architecture.
 
 ---
 
-## 🌱 Current Goals
-
-- Improve cloud-native development skills
-- Build scalable microservices applications
-- Contribute to open-source Java projects
-- Expand knowledge in distributed systems and DevOps
-
----
-
-## 📈 GitHub Stats
-
-Replace `YOUR_USERNAME` with your GitHub username.
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-```
-
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/aung-kyaw-myint-297093259/
-- Email: aungkyawmyint1096@gmail.com
-
----
-
 ⭐ Thank you for visiting my GitHub profile!
